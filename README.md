@@ -12,3 +12,7 @@ Fonts required for xkcd in Matlplotlib
     rm ~/.cache/matplotlib/fontList.cache
     ````
 3. Restart jupyter
+
+# License
+Fonts have been sourced from other github repositories with appropriate licenses for reuse & modifications.  
+Comic Sans MS & Humor Sans
